@@ -1,5 +1,5 @@
-use std::str::FromStr;
 use std::mem;
+use std::str::FromStr;
 
 fn main() {
     let mut numbers = Vec::new();
